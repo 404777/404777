@@ -1,4 +1,9 @@
-## Hi there 👋
+<img width="10%" height="441" alt="205fc874a85e1b0e09ac23448b6157c0" src="https://github.com/user-attachments/assets/2134ee04-7bd0-4d30-a52d-8fd2502ae73a" />
+
+<img width="10%" height="442" alt="405fd4a0c1333be79b2487ad333a7d79" src="https://github.com/user-attachments/assets/21d45481-3d38-4bd9-b326-c6d0b0b51db5" />
+
+<img width="10%" height="441" alt="67881e91b2ad0cf1dde836947b3155c5" src="https://github.com/user-attachments/assets/f51d01c0-2171-49ad-8620-0666a5f235d9" />
+
 
 <!--
 **404777/404777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
