@@ -4,10 +4,6 @@
 
 <img width="10%" height="441" alt="67881e91b2ad0cf1dde836947b3155c5" src="https://github.com/user-attachments/assets/f51d01c0-2171-49ad-8620-0666a5f235d9" />
 
-
-
-<img width="531" height="457" alt="658c31325778c4b5948f5f109fcba8a4" src="https://github.com/user-attachments/assets/86ac09e5-0b32-42e5-8c0d-33553846c30a" />
-
 <!--
 **404777/404777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
