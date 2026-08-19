@@ -1,5 +1,5 @@
 <p align="left">
-  <h3>lacey / enzo </h3>
+  <h3>lacey / enzo
   
   <img src="https://github.com/user-attachments/assets/2134ee04-7bd0-4d30-a52d-8fd2502ae73a" width="10%" alt="205fc874a85e1b0e09ac23448b6157c0">
   <img src="https://github.com/user-attachments/assets/21d45481-3d38-4bd9-b326-c6d0b0b51db5" width="10%" alt="405fd4a0c1333be79b2487ad333a7d79">
