@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="20%" height="245" alt="86dcb62c01a7d4e8ad6adc2708cfc45e~2 (1)" src="https://github.com/user-attachments/assets/87de545b-915b-4dd1-a600-0ffe81526c74" />
+
 
 <!--
 **404777/404777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
